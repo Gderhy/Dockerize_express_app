@@ -20,6 +20,11 @@ docker compose up -d
 docker ps
 ```
 
+### Stopping active containers:
+```bash
+docker compose down
+```
+
 ## Example of api calls:
 ### PUT:
 ```bash
